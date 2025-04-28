@@ -1,0 +1,5 @@
+openai_key:  "YOUR_OPENAI_KEY"
+notion_token: "YOUR_NOTION_TOKEN"
+notion_db:    "YOUR_NOTION_DBID"
+reddit_client: "YOUR_REDDIT_CLIENTID"
+reddit_secret: "YOUR_REDDIT_SECRET"
